@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorReader</string>
+    <string name="title_activity_view_sensors">ViewSensors</string>
+    <string name="view_help_msg">"Hit start to begin data collection. Then move knee. Then hit stop. Calculated angle should display below."</string>
+    <string name="btn_start_msg">Start</string>
+    <string name="btn_stop_msg">Stop</string>
+</resources>
